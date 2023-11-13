@@ -1,0 +1,7 @@
+Success 1: 
+1. International Match Yes/No
+2. Goals scored if a player gets a Yes from logistic regression
+
+
+Success 2:
+Goals Per International Match of a given player
